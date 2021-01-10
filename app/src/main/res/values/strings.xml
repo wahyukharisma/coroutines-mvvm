@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CoroutinesSampleMVVM</string>
+    <string name="title_get_random_dog">Get Random Dog</string>
 </resources>
